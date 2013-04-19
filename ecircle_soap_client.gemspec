@@ -32,7 +32,6 @@ Gem::Specification.new do |s|
     "lib/ecircle/user.rb",
     "lib/ecircle_soap_client.rb",
     "start_pry_with_ecircle",
-    "test/.login.yml.sample",
     "test/helper.rb",
     "test/test_ecircle_soap_client.rb",
     "test/test_ecircle_soap_client_group.rb",
